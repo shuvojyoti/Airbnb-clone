@@ -1,0 +1,10 @@
+.home_section {
+  display: flex;
+  padding: 75px;
+}
+
+.home_header > h1 {
+  margin-left: 90px;
+  margin-top: 50px;
+  margin-bottom: -50px;
+}
